@@ -4,10 +4,52 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CleverTapNotificationContent.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CleverTapNotificationService.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 		<key>IntegrationIOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+		<key>Notification Service.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>NotificationServiceExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F37D0D222C773F2E006E88DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F3BC69B52C9AE0A800F5E5C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F3BC69C42C9AE45700F5E5C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
